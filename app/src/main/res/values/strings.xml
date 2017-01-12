@@ -1,0 +1,39 @@
+<resources>
+
+    //Main strings
+    <string name="app_name">Stock Hawk</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast">This app requires an internet connection</string>
+    <string name="already_saved">This stock is already saved!</string>
+    <string name="invalid_stock">This stock does not exist</string>
+
+    //content description strings
+    <string name="floating_button_content_description">This button allows you to add a new stock</string>
+    <string name="stock_name_content_description">This is a stock</string>
+    <string name="stock_value_content_description">This is the value of the stock</string>
+    <string name="stock_percentage_change_content_description">This is the percentage of the stock</string>
+    <string name="graph_content_description">This is the graph for the stock</string>
+
+    //widget strings
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    //Manage error strings
+    <string name="data_error_json">Looks like it\'s our fault!</string>
+    <string name="data_no_internet">Internet Connection is required!</string>
+    <string name="data_error_parse">Unprecedented errors have happened!</string>
+    <string name="data_unknown_error">Can\'t identify the problem here!</string>
+    <string name="data_server_down">The Yahoo! Server is not responding properly!</string>
+    <string name="data_no_error">No errors!</string>
+
+    //Chart strings
+    <string name="loading_stock_data">Loading Stock Data...</string>
+    <string name="symbol_details" translatable="false" formatted="true">%s Details</string>
+    <string name="last_12month_comparison">Last 12 months stock comparison</string>
+
+</resources>
